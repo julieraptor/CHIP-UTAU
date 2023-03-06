@@ -2,7 +2,7 @@
 <i> UTAU voicebank and DIFF-SVC model by julieraptor</i>
 
 Thank you for using CHIP! Please be sure to tag me in anything you make with this voice.
-To download, navigate to *Releases* on the right-hand side and choose [name of file edit later]
+To download, navigate to *Releases* on the right-hand side and choose CHIP-CV-v1.0.
 
 <p align="center">
 <img src ="https://github.com/julieraptor/CHIP-UTAU/blob/main/art/Chip.png?raw=true" height="600" />
