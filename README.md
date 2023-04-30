@@ -1,5 +1,5 @@
 # CHIP CV
-<i> UTAU voicebank and DIFF-SVC model by julieraptor</i>
+<i> UTAU voicebank by julieraptor</i>
 
 Thank you for using CHIP! Please be sure to tag me in anything you make with this voice.
 <br>
