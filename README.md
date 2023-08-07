@@ -15,6 +15,8 @@ To download, navigate to **Releases** on the right-hand side and choose **CHIP-C
 
 To be uploaded soon
 
+Release video: [https://www.youtube.com/watch?v=4j73lz4ff0Y](https://www.youtube.com/watch?v=4j73lz4ff0Y)
+
 # 【NOTES】 
 ### Character Details
 **Full name:** CHIP
